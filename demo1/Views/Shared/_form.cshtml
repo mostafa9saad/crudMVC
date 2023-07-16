@@ -1,0 +1,29 @@
+﻿@model Student
+
+<form method="post">
+
+    <input type="hidden" asp-for="Id" value="@ViewBag.id">
+
+    <div>
+        <label asp-for="Name">name</label>
+        <input asp-for="Name" class="form-control">
+        <span asp-validation-for="Name"></span>
+    </div>
+    <div>
+        <label asp-for="age">age</label>
+        <input asp-for="age" class="form-control"> 
+        <span asp-validation-for="age"></span>
+    </div>
+    <div>
+        <label asp-for="Email">Email</label>
+        <input asp-for="Email" class="form-control">
+        <span asp-validation-for="Email"></span>
+    </div>
+    <div>
+        <label asp-for="Deptid"></label>
+        <select asp-for="Deptid" asp-items="@ViewBag.depts" class="form-control"></select>
+    </div>
+   
+
+    <button type="submit" class="btn btn-success">add</button>
+</form>

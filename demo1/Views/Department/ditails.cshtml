@@ -1,0 +1,25 @@
+﻿@model Department
+@{
+    Layout = "_Layout";
+}
+
+
+    <table class="table table-bordered">
+        <thead>
+        <th>ID</th>
+        <th>name</th>
+        <th>capcity</th>
+        </thead>
+        <tbody>
+           
+                <tr>
+                 <td>@Model.Id</td>
+                <td>@Model.Name</td>
+                <td>@Model.capcity</td>
+                   
+                </tr>
+
+           
+        </tbody>
+    </table>
+

@@ -1,0 +1,24 @@
+﻿@model Student
+@{
+    Layout = "_Layout";
+}
+
+
+<table class="table table-bordered mt-5">
+    <thead>
+    <th>ID</th>
+    <th>name</th>
+    <th>age</th>
+    <th>Department ID</th>
+    </thead>
+    <tbody>
+       
+            <tr>
+                <td>@Model.Id</td>
+            <td>@Model.Name</td>
+            <td>@Model.age</td>
+            <td>@Model.Deptid</td>
+          </tr>
+
+        
+    </tbody>

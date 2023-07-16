@@ -1,0 +1,22 @@
+﻿@model Department
+
+
+
+<form method="post">
+
+    <div><input asp-for="Id" type="hidden" value="@ViewBag.id"></div>
+
+    <div>
+        <label asp-for="Name">name</label>
+        <input asp-for="Name" class="form-control"> 
+        <span asp-validation-for="Name"></span>
+        
+    </div>
+    <div>
+        <label asp-for="capcity">capcity</label>
+        <input asp-for="capcity" class="form-control"> 
+        <span asp-validation-for="capcity"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">add</button>
+</form>

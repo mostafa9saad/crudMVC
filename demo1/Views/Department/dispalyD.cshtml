@@ -1,0 +1,38 @@
+﻿@model List<Department>
+@{
+    Layout = "_Layout";
+}
+
+
+
+
+    <a class="btn btn-success" asp-action="AddDept" asp-controller="Department">create</a>
+   
+    <table class="table table-bordered mt-5">
+        <thead>
+            <th>ID</th>
+            <th>name</th>
+            <th>capcity</th>
+        </thead>
+        <tbody>
+            @foreach(Department item in Model)
+            {<tr>
+                <td>@item.Id</td>
+               <td>@item.Name</td>
+                <td>@item.capcity</td>
+
+                <td class="w-25 ">
+                    <div class="d-flex justify-content-between">
+
+                    <a class="btn btn-success" asp-action="ditails" asp-controller="Department" asp-route-id="@item.Id">ditails</a>
+                    <a class="btn btn-warning" asp-action="edit" asp-controller="Department" asp-route-id="@item.Id">update</a>
+                        <a class="btn btn-danger" onclick="return confirm('are you sure')" asp-action="delete" asp-controller="Department" asp-route-id="@item.Id">delete</a>
+                    </div>
+                   </td>
+                </tr>
+
+            }
+        </tbody>
+
+    </table>
+

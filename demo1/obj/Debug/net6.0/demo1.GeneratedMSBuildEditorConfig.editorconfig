@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = demo1
+build_property.RootNamespace = demo1
+build_property.ProjectDir = M:\iti.net\ASP.net core\D_1\day_1\demo1\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = M:\iti.net\ASP.net core\D_1\day_1\demo1
+build_property._RazorSourceGeneratorDebug = 
+
+[M:/iti.net/ASP.net core/D_1/day_1/demo1/Views/Department/addDept.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxhZGREZXB0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/iti.net/ASP.net core/D_1/day_1/demo1/Views/Department/dispalyD.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxkaXNwYWx5RC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/iti.net/ASP.net core/D_1/day_1/demo1/Views/Department/ditails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxkaXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/iti.net/ASP.net core/D_1/day_1/demo1/Views/Department/edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxlZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/iti.net/ASP.net core/D_1/day_1/demo1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/iti.net/ASP.net core/D_1/day_1/demo1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/iti.net/ASP.net core/D_1/day_1/demo1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/iti.net/ASP.net core/D_1/day_1/demo1/Views/Shared/_form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9mb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/iti.net/ASP.net core/D_1/day_1/demo1/Views/Shared/_formDept.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9mb3JtRGVwdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/iti.net/ASP.net core/D_1/day_1/demo1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/iti.net/ASP.net core/D_1/day_1/demo1/Views/Student/createStd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxjcmVhdGVTdGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/iti.net/ASP.net core/D_1/day_1/demo1/Views/Student/ditails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxkaXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/iti.net/ASP.net core/D_1/day_1/demo1/Views/Student/editstd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxlZGl0c3RkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/iti.net/ASP.net core/D_1/day_1/demo1/Views/Student/showStd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxzaG93U3RkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/iti.net/ASP.net core/D_1/day_1/demo1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/iti.net/ASP.net core/D_1/day_1/demo1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/iti.net/ASP.net core/D_1/day_1/demo1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ecwqwz75kv
